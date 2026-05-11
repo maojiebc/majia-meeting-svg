@@ -4,7 +4,7 @@ description: "将会议逐字稿或录音转写文本转化为手机端可直接
 version: 1.0.0
 metadata:
   openclaw:
-    homepage: https://github.com/majia9224/majia-meeting-svg
+    homepage: https://github.com/maojiebc/majia-meeting-svg
 ---
 
 # SVG 会议纪要卡片
