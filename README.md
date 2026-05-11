@@ -62,7 +62,7 @@ git clone https://github.com/maojiebc/majia-meeting-svg.git ~/.claude/skills/maj
 |---|---|
 | 📧 Email | [m9224@163.com](mailto:m9224@163.com) |
 | 🐙 GitHub | [github.com/maojiebc](https://github.com/maojiebc) |
-| 🪝 ClawHub | [clawhub.ai/maojiebc](https://clawhub.ai/maojiebc) |
+| 🪝 ClawHub | [clawhub.ai/p/maojiebc](https://clawhub.ai/p/maojiebc) |
 | 🐦 X | [@maojiebc](https://x.com/maojiebc) |
 | 📕 小红书 | [超级马甲](https://xhslink.com/m/4fQMJeHHWKC) |
 | 📰 微信公众号 | **超级马甲** |
