@@ -52,14 +52,22 @@ git clone https://github.com/maojiebc/majia-meeting-svg.git ~/.claude/skills/maj
 - 提示条标注风险和关键决定
 - 圆角、留白、手机优先
 
-## Author
+## 👤 作者 / 联系
 
-**超级马甲** — 用户运营 × AI Skill 手艺人
+**马甲（@maojiebc）** · 超级马甲
 
-- 公众号：超级马甲
-- [GitHub](https://github.com/maojiebc)
-- [小红书](https://www.xiaohongshu.com/user/profile/5af2d2634eacab4e1e0ed4a0)
-- [X / Twitter](https://x.com/maojiebc)
+如果这份 skill 帮到你，欢迎在以下任意渠道找我交流踩坑实录、提需求、报 bug，也欢迎勾兑用户运营 / 数据中台 / BI 工程的实战经验：
+
+| 渠道 | 链接 |
+|---|---|
+| 📧 Email | [m9224@163.com](mailto:m9224@163.com) |
+| 🐙 GitHub | [github.com/maojiebc](https://github.com/maojiebc) |
+| 🪝 ClawHub | [clawhub.ai/maojiebc](https://clawhub.ai/maojiebc) |
+| 🐦 X | [@maojiebc](https://x.com/maojiebc) |
+| 📕 小红书 | [超级马甲](https://xhslink.com/m/4fQMJeHHWKC) |
+| 📰 微信公众号 | **超级马甲** |
+
+> 这份 skill 是 14 年用户运营 + 一线协同实战沉淀出来的，问题/合作随时聊。
 
 ## License
 
