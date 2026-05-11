@@ -1,5 +1,7 @@
 # majia-meeting-svg
 
+[![skills.sh](https://skills.sh/b/maojiebc/majia-meeting-svg)](https://skills.sh/maojiebc/majia-meeting-svg)
+
 一个 Claude Code Skill：把会议逐字稿变成一张手机端可直接转发的 SVG 会议纪要卡片。
 
 ## 它做什么
@@ -12,10 +14,15 @@
 ## 安装
 
 ```bash
-claude install-skill https://github.com/maojiebc/majia-meeting-svg
-```
+# GitHub CLI (推荐)
+gh skill install maojiebc/majia-meeting-svg
 
-或手动克隆到 `~/.claude/skills/majia-meeting-svg/`。
+# skills.sh
+npx skills add maojiebc/majia-meeting-svg
+
+# 手动克隆
+git clone https://github.com/maojiebc/majia-meeting-svg.git ~/.claude/skills/majia-meeting-svg
+```
 
 ## 使用
 
@@ -44,6 +51,15 @@ claude install-skill https://github.com/maojiebc/majia-meeting-svg
 - 时间轴标记关键里程碑
 - 提示条标注风险和关键决定
 - 圆角、留白、手机优先
+
+## Author
+
+**超级马甲** — 用户运营 × AI Skill 手艺人
+
+- 公众号：超级马甲
+- [GitHub](https://github.com/maojiebc)
+- [小红书](https://www.xiaohongshu.com/user/profile/5af2d2634eacab4e1e0ed4a0)
+- [X / Twitter](https://x.com/maojiebc)
 
 ## License
 

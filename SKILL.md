@@ -1,8 +1,9 @@
 ---
 name: majia-meeting-svg
 description: "将会议逐字稿或录音转写文本转化为手机端可直接转发的 SVG 会议纪要卡片。产出双方/多方都能用的结构化可视摘要。当用户提供会议录音转写、逐字稿、会议记录并要求生成会议纪要、会议摘要、meeting minutes、会议框架图、SVG 纪要时使用此技能。即使用户只是说「帮我整理一下这个会议」或「把这段对话做个纪要」，也应触发。"
-version: 1.0.0
+license: MIT
 metadata:
+  version: 1.0.0
   openclaw:
     homepage: https://github.com/maojiebc/majia-meeting-svg
 ---
