@@ -12,7 +12,7 @@
 ## 安装
 
 ```bash
-claude install-skill https://github.com/majia9224/majia-meeting-svg
+claude install-skill https://github.com/maojiebc/majia-meeting-svg
 ```
 
 或手动克隆到 `~/.claude/skills/majia-meeting-svg/`。
@@ -25,6 +25,8 @@ claude install-skill https://github.com/majia9224/majia-meeting-svg
 ```
 
 ## 示例
+
+<img src="references/examples/preview-campaign-plan.png" width="360" alt="示例：门店活动方案会议纪要" />
 
 [`references/examples/`](references/examples/) 目录下有五个脱敏示例，覆盖不同会议场景：
 
