@@ -26,10 +26,13 @@ claude install-skill https://github.com/majia9224/majia-meeting-svg
 
 ## 示例
 
-[`references/examples/`](references/examples/) 目录下有两个脱敏示例：
+[`references/examples/`](references/examples/) 目录下有五个脱敏示例，覆盖不同会议场景：
 
-- **异业合作方案对齐** — 两个品牌首次合作的资源对齐与分工
+- **异业合作对齐** — 两个品牌首次合作的资源对齐与分工
 - **门店活动方案** — 单店促销活动的机制确认与待办
+- **CRM开发需求确认** — 品牌方与技术服务商的需求评审（做/不做/降级）
+- **支付核销一体化** — 三方技术对接方案（含完整技术链路流程图）
+- **省级会员推进** — 总部与分公司的多议题对齐会
 
 ## 视觉特点
 

@@ -13,10 +13,10 @@
   <rect x="20" y="130" width="400" height="38" rx="12" fill="#95A5A6"/>
   <rect x="20" y="156" width="400" height="12" fill="#95A5A6"/>
   <text x="36" y="155" fill="#FFFFFF" font-size="15" font-weight="bold">活动背景</text>
-  <text x="36" y="190" fill="#555" font-size="13">• 门店：约130座，10名员工</text>
-  <text x="36" y="212" fill="#555" font-size="13">• 堂食客单价：约32元</text>
-  <text x="36" y="234" fill="#555" font-size="13">• 活动档期：为期11天</text>
-  <text x="36" y="256" fill="#555" font-size="13">• 券生效：活动结束后次日起，有效期60天</text>
+  <text x="36" y="190" fill="#555" font-size="13">• 中型门店，十余名员工</text>
+  <text x="36" y="212" fill="#555" font-size="13">• 堂食客单价：约XX元</text>
+  <text x="36" y="234" fill="#555" font-size="13">• 活动档期：为期约十天</text>
+  <text x="36" y="256" fill="#555" font-size="13">• 券生效：活动结束后次日起，有效期较长</text>
 
   <rect x="20" y="310" width="400" height="300" rx="12" fill="#FFFFFF" stroke="#E0E0E0" stroke-width="1"/>
   <rect x="20" y="310" width="400" height="38" rx="12" fill="#E74C3C"/>
@@ -24,11 +24,11 @@
   <text x="36" y="335" fill="#FFFFFF" font-size="15" font-weight="bold">已确认方案 · 消费满赠</text>
   <text x="36" y="370" fill="#333" font-size="14" font-weight="bold">核心逻辑</text>
   <text x="36" y="392" fill="#555" font-size="13">消费X元 → 送价值X元券包（多张组合）</text>
-  <text x="36" y="412" fill="#555" font-size="13">券包内每张券有使用门槛（如满25减10）</text>
+  <text x="36" y="412" fill="#555" font-size="13">券包内每张券有使用门槛（如满Y减Z）</text>
   <text x="36" y="442" fill="#333" font-size="14" font-weight="bold">档位设置</text>
-  <text x="36" y="464" fill="#555" font-size="13">• 3-5个消费档位</text>
+  <text x="36" y="464" fill="#555" font-size="13">• 多个消费档位</text>
   <text x="36" y="484" fill="#555" font-size="13">• 每档送等额券包，拆分为多张有门槛券</text>
-  <text x="36" y="504" fill="#555" font-size="13">• 单张券折扣控制在八折以内</text>
+  <text x="36" y="504" fill="#555" font-size="13">• 单张券折扣控制在一定范围内</text>
   <text x="36" y="534" fill="#333" font-size="14" font-weight="bold">使用规则</text>
   <text x="36" y="556" fill="#555" font-size="13">• 活动期间每天消费均可领券（不限次数）</text>
   <text x="36" y="576" fill="#555" font-size="13">• 一笔订单只能用一张券，不可叠加</text>
@@ -81,7 +81,7 @@
   <rect x="20" y="1290" width="400" height="38" rx="12" fill="#95A5A6"/>
   <rect x="20" y="1316" width="400" height="12" fill="#95A5A6"/>
   <text x="36" y="1315" fill="#FFFFFF" font-size="15" font-weight="bold">备注</text>
-  <text x="36" y="1350" fill="#555" font-size="13">• 老店，日营业额约3万，忠实客群多</text>
+  <text x="36" y="1350" fill="#555" font-size="13">• 老店，日营业额稳定，忠实客群多</text>
   <text x="36" y="1372" fill="#555" font-size="13">• 学生群体占比高，活动期间可能每天来</text>
   <text x="36" y="1394" fill="#555" font-size="13">• 对面竞品在做会员返卡费活动</text>
   <text x="36" y="1416" fill="#555" font-size="13">• 储值暂不可行（无对公账户）</text>

@@ -25,8 +25,8 @@
   <text x="36" y="372" fill="#555" font-size="13">• 小程序 Banner + 公众号推文</text>
   <text x="36" y="392" fill="#555" font-size="13">• 微博 + 小红书区域矩阵号</text>
   <text x="36" y="422" fill="#333" font-size="14" font-weight="bold">线下</text>
-  <text x="36" y="444" fill="#555" font-size="13">• 门店TV轮播屏（3-4台/店）</text>
-  <text x="36" y="464" fill="#555" font-size="13">• 覆盖约7000家门店</text>
+  <text x="36" y="444" fill="#555" font-size="13">• 门店TV轮播屏（多台/店）</text>
+  <text x="36" y="464" fill="#555" font-size="13">• 覆盖数千家门店</text>
   <rect x="36" y="478" width="370" height="20" rx="4" fill="#FDEDEC"/>
   <text x="46" y="493" fill="#C0392B" font-size="12">纸质物料本期不做，先跑MVP看效果</text>
 
