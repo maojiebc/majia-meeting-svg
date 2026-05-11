@@ -3,7 +3,7 @@ name: majia-meeting-svg
 description: "将会议逐字稿或录音转写文本转化为手机端可直接转发的 SVG 会议纪要卡片，并自动转为 PNG 方便分享。产出双方/多方都能用的结构化可视摘要。当用户提供会议录音转写、逐字稿、会议记录并要求生成会议纪要、会议摘要、meeting minutes、会议框架图、SVG 纪要时使用此技能。即使用户只是说「帮我整理一下这个会议」「把这段对话做个纪要」「会议总结一下」，也应触发。"
 license: MIT
 metadata:
-  version: 1.1.2
+  version: 1.1.3
   openclaw:
     homepage: https://github.com/maojiebc/majia-meeting-svg
 ---
@@ -21,15 +21,17 @@ metadata:
 
 ## 效果预览
 
-<p>
-<img src="https://raw.githubusercontent.com/maojiebc/majia-meeting-svg/main/references/examples/example-campaign-plan.png" width="200" alt="门店活动方案" />
-<img src="https://raw.githubusercontent.com/maojiebc/majia-meeting-svg/main/references/examples/example-cross-brand.png" width="200" alt="异业合作对齐" />
-<img src="https://raw.githubusercontent.com/maojiebc/majia-meeting-svg/main/references/examples/example-crm-dev-review.png" width="200" alt="CRM开发需求确认" />
-<img src="https://raw.githubusercontent.com/maojiebc/majia-meeting-svg/main/references/examples/example-payment-integration.png" width="200" alt="支付核销一体化" />
-<img src="https://raw.githubusercontent.com/maojiebc/majia-meeting-svg/main/references/examples/example-regional-ops.png" width="200" alt="省级会员推进" />
-</p>
+![门店活动方案](https://raw.githubusercontent.com/maojiebc/majia-meeting-svg/main/references/examples/example-campaign-plan.png)
 
-更多示例见 [`references/examples/`](https://github.com/maojiebc/majia-meeting-svg/tree/main/references/examples)
+![异业合作对齐](https://raw.githubusercontent.com/maojiebc/majia-meeting-svg/main/references/examples/example-cross-brand.png)
+
+![CRM开发需求确认](https://raw.githubusercontent.com/maojiebc/majia-meeting-svg/main/references/examples/example-crm-dev-review.png)
+
+![支付核销一体化](https://raw.githubusercontent.com/maojiebc/majia-meeting-svg/main/references/examples/example-payment-integration.png)
+
+![省级会员推进](https://raw.githubusercontent.com/maojiebc/majia-meeting-svg/main/references/examples/example-regional-ops.png)
+
+更多示例见 [references/examples/](https://github.com/maojiebc/majia-meeting-svg/tree/main/references/examples)
 
 ---
 
