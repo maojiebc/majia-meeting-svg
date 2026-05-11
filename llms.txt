@@ -1,10 +1,10 @@
 # majia-meeting-svg
 
-> Claude Code Skill that converts meeting transcripts into mobile-friendly SVG summary cards.
+> Claude Code Skill that converts meeting transcripts into mobile-friendly SVG summary cards with auto PNG export.
 
 ## What it does
 
-Takes multi-party meeting transcripts (voice-to-text or verbatim notes) and produces a structured SVG card with color-coded sections, checkbox action items, timeline milestones, and risk callouts. Designed for mobile viewing and instant sharing.
+Takes multi-party meeting transcripts (voice-to-text or verbatim notes) and produces a structured SVG card with color-coded sections, checkbox action items, timeline milestones, and risk callouts. Automatically converts to PNG (2x Retina) for instant sharing via WeChat, DingTalk, Feishu, or any IM.
 
 ## Install
 
