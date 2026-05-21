@@ -1,0 +1,5 @@
+# PII heuristic 误报豁免（chinese_name_shape 正则会把以下通用词当成人名形状）
+# 这些都是公开渠道名 / 副词，不是人名。理想位置是并入 majia-ota-skill
+# 的 DEFAULT_CHINESE_ALLOW baseline；在 baseline 升级前，先在 skill 本地占位。
+微博
+更强

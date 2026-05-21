@@ -2,6 +2,8 @@
 
 [![skills.sh](https://skills.sh/b/maojiebc/majia-meeting-svg)](https://skills.sh/maojiebc/majia-meeting-svg)
 
+> **SVG 会议纪要卡片 · 马甲实战版**
+
 一个 Claude Code Skill：把会议逐字稿变成一张手机端可直接转发的 SVG 会议纪要卡片，并自动生成 PNG 方便在微信/钉钉/飞书等 IM 中直接发送。
 
 ## 它做什么

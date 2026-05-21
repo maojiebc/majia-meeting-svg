@@ -2,6 +2,8 @@
 
 [![skills.sh](https://skills.sh/b/maojiebc/majia-meeting-svg)](https://skills.sh/maojiebc/majia-meeting-svg)
 
+> **SVG 会议纪要卡片 · 马甲实战版** (SVG Meeting Card · Majia Real-World Edition)
+
 A Claude Code Skill that turns a multi-party meeting transcript into a single phone-friendly SVG summary card — auto-converted to PNG so it can be forwarded directly inside WeChat / DingTalk / Feishu and other IM channels.
 
 > 🇨🇳 Chinese readers: see [README.md](./README.md) for the full Chinese documentation.
