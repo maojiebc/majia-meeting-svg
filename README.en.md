@@ -69,7 +69,7 @@ If this skill helps you, find me on any of these channels — happy to chat abou
 | 🪝 ClawHub | [clawhub.ai/p/maojiebc](https://clawhub.ai/p/maojiebc) |
 | 🐦 X | [@maojiebc](https://x.com/maojiebc) |
 | 📕 Xiaohongshu | [Super Majia](https://xhslink.com/m/4fQMJeHHWKC) |
-| 📰 WeChat Official Account | **超级马甲** |
+| 📰 WeChat Official Account | [超级马甲](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzY5NzIzODk2NA==#wechat_redirect) |
 
 > Built from 14 years of user-operations work and field-tested team coordination workflows.
 
